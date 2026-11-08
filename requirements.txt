@@ -1,0 +1,6 @@
+# Opens, resizes and saves images.
+Pillow>=10.0
+
+# Adds support for HEIC/HEIF, the photo format iPhones use.
+# Without it everything else still works, just not HEIC.
+pillow-heif>=0.18
